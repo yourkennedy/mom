@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+}
+
+.large {
+    font-size: large;
+}
+
+.medium {
+    font-size: medium;
+}
+
+.small {
+    font-size: small;
+}
+
+div.container {
+    display:inline-block;
+  }
+
+  p {
+    text-align:center;
+  }
